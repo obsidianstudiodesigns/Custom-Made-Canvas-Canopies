@@ -1,0 +1,6 @@
+_source/
+__pycache__/
+*.log
+.DS_Store
+.claude/
+assets/img/_sizes.txt
